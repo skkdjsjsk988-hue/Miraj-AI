@@ -1,0 +1,7 @@
+{
+  "name": "Miraj AI",
+  "description": "Smart AI study and learning assistant with AI chat, maths solver, science explainer, notes maker, and practice tools.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
